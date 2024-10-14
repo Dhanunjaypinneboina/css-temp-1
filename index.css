@@ -1,0 +1,34 @@
+.header{
+    width: 800px;
+    box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2); 
+    
+}
+
+.card-container{
+    width: 1000px;
+}
+
+.logo{
+    margin-right: 480px;
+    width: 100px;
+   
+}
+.h-text{
+    margin: 5px;
+    font-size: 20px;
+}
+
+.box{
+    width: 200px;
+    margin-top: 20PX;
+    display: inline-block;
+}
+
+.image{
+ width: 200px;
+ height:200px;
+}
+
+.button{
+    width: 200px;
+}
